@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Congestion Prediction in Chip Design with Walks and Paritioning
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Chip design has increased exponentially in terms of complexity, leading to significant challenges in predicting and reducing wire congestion. Congestion, is the term used for when there are an excessive amount of wire routing in a constrained physical area, which negatively impacts performance through overheating, signal interference, and increased power consumption. Our methodology proposes enhancements to an existing model by introducing dummy nodes to improve long-range message passing and leveraging domain-based partitioning. These modifications aim to enhance congestion prediction accuracy and optimize chip design efficiency. By evaluating these approaches against the original DE-HNN model, this work contributes to advancing applications in chip design.
